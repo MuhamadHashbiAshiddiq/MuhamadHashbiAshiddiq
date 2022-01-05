@@ -82,18 +82,7 @@
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-![]()  
-  
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=MuhamadHashbiAshiddiq&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=MuhamadHashbiAshiddiq&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
